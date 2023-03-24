@@ -1,0 +1,1 @@
+# C-Program-to-Solve-Sum-of-Series-1-x2-2-x4-4--x6-6-x8-8--x10-10-
